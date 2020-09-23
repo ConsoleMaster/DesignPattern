@@ -1,3 +1,4 @@
 Sources/*/*.csproj
 Sources/*/obj
 Sources/*/bin
+*.vscode
